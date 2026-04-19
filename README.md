@@ -8,12 +8,7 @@ Minimal trivia flash-card app built with **React + TypeScript + Tailwind CSS**.
 - Assign comma-separated tags
 - Store cards locally in browser `localStorage` (no DB required)
 - Filter library by tag
-- Spaced repetition scheduling (due date, repetitions, ease)
 - Play/review mode by selected tag
-- Review input varies by card maturity:
-  - Multiple choice for newer cards
-  - Text input for medium familiarity cards
-  - Self-check for well learned cards
 - If no tag is selected in play mode, it reviews **all cards**
 
 ## Local development
